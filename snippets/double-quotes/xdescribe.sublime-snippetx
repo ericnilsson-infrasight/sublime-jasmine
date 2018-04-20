@@ -5,6 +5,6 @@ xdescribe("${1:Name of the group}", function() {
 });]]>
 	</content>
 	<tabTrigger><![CDATA[xdesc]]></tabTrigger>
-	<scope>source.ts</scope>
+	<scope>source.spec.ts</scope>
 	<description>xdescribe</description>
 </snippet>

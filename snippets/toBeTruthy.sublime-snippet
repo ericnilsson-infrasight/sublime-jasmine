@@ -2,6 +2,6 @@
 	<content><![CDATA[expect($1).toBeTruthy();$0]]>
 	</content>
 	<tabTrigger><![CDATA[tbt]]></tabTrigger>
-	<scope>source.ts</scope>
+	<scope>source.spec.ts</scope>
 	<description>toBeTruthy</description>
 </snippet>

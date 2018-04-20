@@ -4,7 +4,7 @@
 <dict>
 	<key>fileTypes</key>
 	<array>
-		<string>spec.js</string>
+		<string>spec.ts</string>
 	</array>
 	<key>foldingStartMarker</key>
 	<string>^.*\bfunction\s*(\w+\s*)?\([^\)]*\)(\s*\{[^\}]*)?\s*$</string>
@@ -13,12 +13,12 @@
 	<key>keyEquivalent</key>
 	<string>^~J</string>
 	<key>name</key>
-	<string>Jasmine</string>
+	<string>JasmineTS</string>
 	<key>patterns</key>
 	<array>
 		<dict>
 			<key>include</key>
-			<string>source.js</string>
+			<string>source.ts</string>
 		</dict>
 		<dict>
 			<key>captures</key>
@@ -26,7 +26,7 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
-					<string>storage.type.js</string>
+					<string>storage.type.ts</string>
 				</dict>
 			</dict>
 			<key>match</key>
@@ -38,7 +38,7 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
-					<string>storage.type.js</string>
+					<string>storage.type.ts</string>
 				</dict>
 			</dict>
 			<key>match</key>
@@ -46,7 +46,7 @@
 		</dict>
 	</array>
 	<key>scopeName</key>
-	<string>source.js.jasmine</string>
+	<string>source.spec.ts</string>
 	<key>uuid</key>
 	<string>03a4ea4f-bd92-4d51-b7aa-70b12bbdc854</string>
 </dict>

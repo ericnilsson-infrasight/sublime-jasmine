@@ -2,6 +2,6 @@
 	<content><![CDATA[expect(${1:array}).not.toContain(${2:item});$0]]>
 	</content>
 	<tabTrigger><![CDATA[nc]]></tabTrigger>
-	<scope>source.ts</scope>
+	<scope>source.spec.ts</scope>
 	<description>not.toContain</description>
 </snippet>

@@ -5,6 +5,6 @@ beforeEach(() => {
 });]]>
   </content>
   <tabTrigger><![CDATA[be]]></tabTrigger>
-  <scope>source.ts</scope>
+  <scope>source.spec.ts</scope>
   <description>beforeEach</description>
 </snippet>

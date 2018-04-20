@@ -2,6 +2,6 @@
 	<content><![CDATA[expect($1).toThrow();$0]]>
 	</content>
 	<tabTrigger><![CDATA[tt]]></tabTrigger>
-	<scope>source.ts</scope>
+	<scope>source.spec.ts</scope>
 	<description>toThrow</description>
 </snippet>

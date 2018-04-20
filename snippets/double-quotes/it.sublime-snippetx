@@ -5,6 +5,6 @@ it("${1:should behave...}", function() {
 });]]>
 	</content>
 	<tabTrigger><![CDATA[it]]></tabTrigger>
-	<scope>source.ts</scope>
+	<scope>source.spec.ts</scope>
 	<description>it</description>
 </snippet>

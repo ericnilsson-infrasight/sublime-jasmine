@@ -1,7 +1,7 @@
 {
   "name": "Jasmine",
-  "scopeName": "source.js.jasmine",
-  "fileTypes": ["spec.js"],
+  "scopeName": "source.spec.ts.jasmine",
+  "fileTypes": ["spec.ts"],
   "foldingStartMarker": "^.*\\bfunction\\s*(\\w+\\s*)?\\([^\\)]*\\)(\\s*\\{[^\\}]*)?\\s*$",
   "foldingStopMarker": "^\\s*\\}",
   "keyEquivalent": "^~J",
@@ -10,7 +10,7 @@
 
   "patterns": [
     {
-      "include": "source.js"
+      "include": "source.spec.js"
     },
     {
       "match": "^\\s*((x|f)?describe)\\(",

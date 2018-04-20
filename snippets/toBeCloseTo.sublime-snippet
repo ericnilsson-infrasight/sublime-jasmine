@@ -2,6 +2,6 @@
 	<content><![CDATA[expect($1).toBeCloseTo(${2:number}, ${3:delta});$0]]>
 	</content>
 	<tabTrigger><![CDATA[tbct]]></tabTrigger>
-	<scope>source.ts</scope>
+	<scope>source.spec.ts</scope>
 	<description>toBeCloseTo</description>
 </snippet>
