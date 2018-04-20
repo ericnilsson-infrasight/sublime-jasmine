@@ -4,7 +4,7 @@ fdescribe('${1:Name of the group}', () => {
   $2
 });]]>
   </content>
-  <tabTrigger><![CDATA[fdesce]]></tabTrigger>
-  <scope>source.js</scope>
+  <tabTrigger><![CDATA[fdesc]]></tabTrigger>
+  <scope>source.ts</scope>
   <description>focused describe</description>
 </snippet>

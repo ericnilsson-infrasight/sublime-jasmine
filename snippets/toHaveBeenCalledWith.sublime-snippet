@@ -2,6 +2,6 @@
 	<content><![CDATA[expect($1).toHaveBeenCalledWith(${2:params});$0]]>
 	</content>
 	<tabTrigger><![CDATA[thbcw]]></tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.ts</scope>
 	<description>toHaveBeenCalledWith</description>
 </snippet>

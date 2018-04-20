@@ -4,6 +4,6 @@
 \}});$0]]>
   </content>
   <tabTrigger><![CDATA[scfe]]></tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.ts</scope>
   <description>spyOn.and.callFake</description>
 </snippet>

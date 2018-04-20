@@ -4,7 +4,7 @@ describe('${1:Name of the group}', () => {
 	$2
 });]]>
   </content>
-  <tabTrigger><![CDATA[desce]]></tabTrigger>
-  <scope>source.js</scope>
+  <tabTrigger><![CDATA[desc]]></tabTrigger>
+  <scope>source.ts</scope>
   <description>describe</description>
 </snippet>

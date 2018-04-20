@@ -2,6 +2,6 @@
 	<content><![CDATA[expect($1).not.toEqual($2);$0]]>
 	</content>
 	<tabTrigger><![CDATA[ne]]></tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.ts</scope>
 	<description>not.toEqual</description>
 </snippet>

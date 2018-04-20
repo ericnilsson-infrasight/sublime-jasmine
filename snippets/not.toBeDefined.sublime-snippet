@@ -2,6 +2,6 @@
 	<content><![CDATA[expect($1).not.toBeDefined();$0]]>
 	</content>
 	<tabTrigger><![CDATA[nd]]></tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.ts</scope>
 	<description>not.toBeDefined</description>
 </snippet>

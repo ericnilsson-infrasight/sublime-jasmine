@@ -4,7 +4,7 @@ afterEach(() => {
 	$1
 });]]>
   </content>
-  <tabTrigger><![CDATA[aee]]></tabTrigger>
-  <scope>source.js</scope>
+  <tabTrigger><![CDATA[ae]]></tabTrigger>
+  <scope>source.ts</scope>
   <description>afterEach</description>
 </snippet>

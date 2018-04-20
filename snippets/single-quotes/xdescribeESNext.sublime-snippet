@@ -4,7 +4,7 @@ xdescribe('${1:Name of the group}', () => {
 	$2
 });]]>
   </content>
-  <tabTrigger><![CDATA[xdesce]]></tabTrigger>
-  <scope>source.js</scope>
+  <tabTrigger><![CDATA[xdesc]]></tabTrigger>
+  <scope>source.ts</scope>
   <description>xdescribe</description>
 </snippet>

@@ -4,7 +4,7 @@ beforeEach(() => {
 	$1
 });]]>
   </content>
-  <tabTrigger><![CDATA[bee]]></tabTrigger>
-  <scope>source.js</scope>
+  <tabTrigger><![CDATA[be]]></tabTrigger>
+  <scope>source.ts</scope>
   <description>beforeEach</description>
 </snippet>

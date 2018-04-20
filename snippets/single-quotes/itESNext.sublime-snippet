@@ -4,7 +4,7 @@ it('${1:should behave...}', () => {
 	$2
 });]]>
   </content>
-  <tabTrigger><![CDATA[ite]]></tabTrigger>
-  <scope>source.js</scope>
+  <tabTrigger><![CDATA[it]]></tabTrigger>
+  <scope>source.ts</scope>
   <description>it</description>
 </snippet>

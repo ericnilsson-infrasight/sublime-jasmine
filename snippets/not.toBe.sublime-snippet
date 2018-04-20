@@ -2,6 +2,6 @@
 	<content><![CDATA[expect($1).not.toBe($2);$0]]>
 	</content>
 	<tabTrigger><![CDATA[nb]]></tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.ts</scope>
 	<description>not.toBe</description>
 </snippet>

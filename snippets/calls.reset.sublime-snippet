@@ -2,6 +2,6 @@
 	<content><![CDATA[${1:spy}.calls.reset()]]>
 	</content>
 	<tabTrigger><![CDATA[cr]]></tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.ts</scope>
 	<description>spy.calls.reset</description>
 </snippet>

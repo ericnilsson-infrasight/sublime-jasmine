@@ -2,6 +2,6 @@
 	<content><![CDATA[expect(${1:array}).toContain(${2:item});$0]]>
 	</content>
 	<tabTrigger><![CDATA[tc]]></tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.ts</scope>
 	<description>toContain</description>
 </snippet>

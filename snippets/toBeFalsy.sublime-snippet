@@ -2,6 +2,6 @@
 	<content><![CDATA[expect($1).toBeFalsy();$0]]>
 	</content>
 	<tabTrigger><![CDATA[tbf]]></tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.ts</scope>
 	<description>toBeFalsy</description>
 </snippet>

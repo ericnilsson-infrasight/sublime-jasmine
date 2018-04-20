@@ -4,7 +4,7 @@ xit('${1:should behave...}', () => {
 	$2
 });]]>
   </content>
-  <tabTrigger><![CDATA[xite]]></tabTrigger>
-  <scope>source.js</scope>
+  <tabTrigger><![CDATA[xit]]></tabTrigger>
+  <scope>source.ts</scope>
   <description>xit</description>
 </snippet>

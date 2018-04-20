@@ -4,7 +4,7 @@ fit('${1:should behave...}', () => {
   $2
 });]]>
   </content>
-  <tabTrigger><![CDATA[fite]]></tabTrigger>
-  <scope>source.js</scope>
+  <tabTrigger><![CDATA[fit]]></tabTrigger>
+  <scope>source.ts</scope>
   <description>focused it</description>
 </snippet>

@@ -2,6 +2,6 @@
 	<content><![CDATA[expect($1).toEqual($2);$0]]>
 	</content>
 	<tabTrigger><![CDATA[te]]></tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.ts</scope>
 	<description>toEqual</description>
 </snippet>

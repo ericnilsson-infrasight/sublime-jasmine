@@ -5,6 +5,6 @@ fit("${1:should behave...}", () => {
 });]]>
   </content>
   <tabTrigger><![CDATA[fite]]></tabTrigger>
-  <scope>source.js</scope>
+  <scope>source.ts</scope>
   <description>focused it</description>
 </snippet>
